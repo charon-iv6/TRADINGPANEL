@@ -1,12 +1,7 @@
 # crypto-exchanges-gateway
 
-Your gateway to the world of crypto !
+new version * [biskoitpedar](https://www.instagram.com/danyll._)
 
-## Disclaimer
-
-This project cannot be considered in any way as trading advice.
-
-Use it at your own risks and be careful with your money ;)
 
 ## Faq
 
@@ -321,7 +316,7 @@ docker run --rm -p 8000:8000 -p 8001:8001 --name ceg -e cfg.exchanges.bittrex.ke
 ## Dependencies
 
 This project was made possible thanks to following projects :
-
+* [biskoitpedar](https://www.instagram.com/danyll._)
 * [big.js](https://www.npmjs.com/package/big.js)
 * [binance](https://www.npmjs.com/package/binance)
 * [body-parser](https://www.npmjs.com/package/body-parser)
@@ -345,12 +340,3 @@ This project was made possible thanks to following projects :
 * [ws](https://www.npmjs.com/package/ws)
 * [yargs](https://www.npmjs.com/package/yargs) (for CLI commands)
 
-## Donate
-
-This project is a work in progress. If you find it useful, you might consider a little donation ;)
-
-BTC: `163Bu8qMSDoHc1sCatcnyZcpm38Z6PWf6E`
-
-ETH: `0xDEBBEEB9624449D7f2c87497F21722b1731D42a8`
-
-NEO/GAS: `NXbbNQ2wSuavGRRffxFQrKLvSysEewzSHZ`
